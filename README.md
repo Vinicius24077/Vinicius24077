@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinícius 👋🏼
+### Olá! Eu sou o Vinícius e esse é o meu "balanço" da programação 👋🏼
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius24077&show_icons=true&theme=dracula)
 
