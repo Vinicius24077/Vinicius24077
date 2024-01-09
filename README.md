@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinícius e esse é o meu "balanço" da programação 👋🏼
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius24077&show_icons=true&theme=dracula)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius24077&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius24077&layout=compact)
 
 ## Tecnologias que utilizo diariamente
