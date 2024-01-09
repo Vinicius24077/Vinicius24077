@@ -2,7 +2,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius24077&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius24077&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius24077&layout=donut-vertical)](https://github.com/Vinicius24077/github-readme-stats)
 
 ## Tecnologias que utilizo diariamente
 
